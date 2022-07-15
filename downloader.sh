@@ -1,4 +1,5 @@
 #!/bin/bash
+# this code will download all images present the url
 clear
 url=$1 #url of site
 folder=$2 #folder name  
