@@ -1,6 +1,4 @@
-
-<q>**Humans like dealing with humans, and all the non-robotic humanity that comes with them** </q><br>
-The repository contains automation scripts which can be used to automate your boring stuffs
+<h1>Awesome Codes</h1>
 
 
 
